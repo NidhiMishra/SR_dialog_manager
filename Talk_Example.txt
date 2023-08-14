@@ -1,0 +1,37 @@
+User: Hi, nice to meet you
+Nadine: Hi it's great to see you! It's a pleasure to meet you too.
+User: What we have talked last time
+Nadine: We have talked about job, name, memory, ntu, episode
+User: Do you know Cindy
+Nadine: Yes, I know Cindy very well.
+User: When did you meet Cindy last time
+Nadine: I saw Cindy last friday.
+User: have you met Jones last friday
+Nadine: Yes, I saw Jones 1 time in the night,
+User: who have you meet on last Saturday
+Nadine: Sorry, I didn't see anyone last saturday
+User: Do you remember my research topic
+Nadine: yes your job is to do research about episode memory
+User: Let's talk about my research topic
+Nadine: I remember you said that your job is to do research about episode me
+mory. What's more, Cindy said that he is working on research about path planning
+User: Do you like swimming
+Nadine: Please don't drop me in the water!
+User: I like swimming very much
+Nadine: I remember you said that you like swimming very much. What's more, Cindy
+ said that he like swimming very much
+User: Do you know Tom Cruise
+Nadine: Tom Cruise is an American actor and filmmaker. Cruise has been nominated
+ for three Academy Awards and has won three Golden Globe Awards. He started his
+career at age 19 in the 1981 film Endless Love. After portraying supporting role
+s in Taps and The Outsiders , his first leading role was in the romantic comedy
+Risky Business, released in August 1983. Cruise became a full-fledged movie star
+ after starring as Pete "Maverick" Mitchell in the action drama Top Gun
+add memory
+User: So much for today, I have to go
+Nadine: Ask me questions so that I can be clear.
+User: Sorry, maybe next time
+Nadine: I remember Jones said that see you next time
+add memory
+User: goodbye
+Nadine: See you later my friend.

@@ -1,0 +1,61 @@
+(dp1
+S'do'
+p2
+(lp3
+S'Do you have a car?'
+p4
+aS'Do you own a computer?'
+p5
+aS'Do you like to watch TV series?'
+p6
+aS'Do you like to surf on internet?'
+p7
+aS'Do you like cooking?'
+p8
+aS'Do you have a good memory?'
+p9
+aS'Do you like Singapore food?'
+p10
+aS'Do you like shopping online?'
+p11
+aS'Do you enjoy shopping with other people?'
+p12
+aS'Do you like travel?'
+p13
+aS'Do you have pets?'
+p14
+aS'Are you part of any social networks like Facebook'
+p15
+asS'favorite'
+p16
+(lp17
+S'What is your favorite website?'
+p18
+aS'What is your favorite holiday?'
+p19
+aS'What is your favorite movie?'
+p20
+aS'What is your favorite book?'
+p21
+aS'What is your favorite animal?'
+p22
+aS'What is your favorite sports?'
+p23
+aS'Who is your favorite movie star?'
+p24
+aS'Who is your favorite artist?'
+p25
+aS'Who is your favorite musician?'
+p26
+aS'Who is your favorite author'
+p27
+asS'standard'
+p28
+(lp29
+S'What is your nationality?'
+p30
+aS'What is your current work?'
+p31
+aS'What is your hobby'
+p32
+as.

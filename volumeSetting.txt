@@ -1,0 +1,5 @@
+English -18.0
+German -18.0
+French -18.0
+Chinese -10.0
+#END

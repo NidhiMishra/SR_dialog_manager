@@ -1,0 +1,20 @@
+
+Training the chatbot
+--------------------
+
+1) open the command prompt and go to G:\IMI-PROJECTS\i2p_Nadine_Robot\development\i2p_interaction\i2p_dialog_manager
+
+2) delete the old Nadine_1.yml, Nadine_2.yml, Nadine_3.yml files in G:\IMI-PROJECTS\i2p_Nadine_Robot\development\i2p_interaction\i2p_dialog_manager\AIA_Database
+
+3) paste the new Nadine_1.yml, Nadine_2.yml, Nadine_3.yml files in G:\IMI-PROJECTS\i2p_Nadine_Robot\development\i2p_interaction\i2p_dialog_manager\AIA_Database
+
+4) In G:\IMI-PROJECTS\i2p_Nadine_Robot\development\i2p_interaction\i2p_dialog_manager, delete the file db.sqlite3
+
+5) In the command prompt, type "python AIA_chatbot_train.py"
+
+Testing the chatbot
+-------------------
+
+1) open the command prompt and go to G:\IMI-PROJECTS\i2p_Nadine_Robot\development\i2p_interaction\i2p_dialog_manager 
+
+2) In the command prompt, type "python AIA_chatbot_test.py"
